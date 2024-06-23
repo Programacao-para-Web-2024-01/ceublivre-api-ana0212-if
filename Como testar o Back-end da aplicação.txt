@@ -43,8 +43,10 @@ Esses vão ser os testes do Back-end para cobrir todas as funcionalidades do ger
    - Body:
      ```json
      {
-         "endereco": "Rua Nova, 456",
-         "status": "Em Processamento"
+    "endereco": "Rua Nova, 456",
+    "status": "Em Processamentoo",
+    "valor_pedido": 150.75,
+    "valor_frete": 20.5
      }
      ```
    - Objetivo: Atualizar as informações de um pedido existente.
