@@ -1,4 +1,3 @@
-Escrito por Eduardo Ferreira e Luis Eduardo:
 
 Esses vão ser os testes do Back-end para cobrir todas as funcionalidades do gerenciamento de pedidos usando o postman:
 
